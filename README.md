@@ -10,7 +10,7 @@
 ### Quick Start Videos:
 Here are two YouTube walk-through videos to help you get started:
 - [Introduction to bch-js and the bch-js-examples repository](https://youtu.be/GD2i1ZUiyrk)
-- [Working with the FullStack.cash JWT token](https://youtu.be/GD2i1ZUiyrk)
+- [Working with the FullStack.cash JWT token](https://youtu.be/OdJOleHoSo8)
 
 ### Quick Links
 - [npm Library](https://www.npmjs.com/package/@chris.troutner/bch-js)
